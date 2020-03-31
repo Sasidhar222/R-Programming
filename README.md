@@ -1,2 +1,2 @@
 # R-Programming
-These are the homeowrk solutions of the R- Programming A- Z by  Kirill Eremenko.
+These are the homework solutions of the course R Programming A-Z by  Kirill Eremenko.
